@@ -1,1 +1,1 @@
-print("hello planet\n")
+print("123\n")
